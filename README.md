@@ -17,4 +17,4 @@ https://vulkk.com/2021/06/27/how-to-fix-witcher-3-ultrawide-cutscenes-no-black-b
 https://github.com/danijeel/witcher-3-ultrawide-fix/releases
 
 
-https://github.com/danijeel/witcher-3-ultrawide-fix/releases/download/untagged-014c8a1233e5251277ec/witcher-3-ultrawide-fix.exe
+https://github.com/danijeel/witcher-3-ultrawide-fix/releases/download/v1.0.0/witcher-3-ultrawide-fix.exe
